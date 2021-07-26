@@ -1,0 +1,61 @@
+Actualizaciones de DSI
+
+Punto 1:
+Se ha eliminado el registro de productos en mal estado
+Razón:
+El control de calidad se hace dentro de la empresa
+Es un poco irracional que el almacenero se ponga a revisar los productos
+que vienen en grandes cantidades
+
+
+
+
+Punto 2:
+El almacenero registra productos
+El cajero 
+
+
+
+Punto 3:
+Se ha borrado el caso de uso Generar y almacenar reporte
+
+
+
+
+
+
+25/07/2021
+
+No le estoy poniendo clase control al 
+registrar nuesvos productos, debido a que no hay
+que controlar, ya que los productos solo se registran
+
+No considero el informe de registro como una interfaz, ya que
+si bien es un panel que se muestra, tmb se puede considerar
+como una entidad, ya que es resultado del registro
+
+
+
+No considero Lista como una clase, porque creo que funciona como
+estructura, en su lugar uso lista de productos
+
+A tipo de actividad, de la clase actividad de almacenero, le
+coloco tipo int ya que es mas sencillo crear una variable tipo int
+que cambie su valor segun el boton que se elija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

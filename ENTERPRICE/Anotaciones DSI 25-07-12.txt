@@ -44,6 +44,9 @@ coloco tipo int ya que es mas sencillo crear una variable tipo int
 que cambie su valor segun el boton que se elija
 
 
+Porque chachi porque 
+
+
 
 
 
